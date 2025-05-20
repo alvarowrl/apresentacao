@@ -1,0 +1,52 @@
+
+body, h2, h3, p {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+}
+body {
+  background: linear-gradient(to bottom, #ece9f1, #d6c9e5) !important;
+}
+h2 {
+  text-align: center;
+  padding-top: 2%;
+  font-weight: bolder !important;
+}
+h3 {
+  text-align: center;
+  padding-top: 10%;
+}
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.icon-redessociais {
+  width: 20% !important;
+}
+p {
+  font-size: 1rem;
+}
+.card {
+  background-color: rgb(239, 173, 255) !important;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.02);
+}
+.img-thumbnail {
+  width: 300px !important;
+  border-radius: 100rem !important;
+  background-color: black !important;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+footer{
+      margin-bottom: 25%;
+}
+.rodapeP{
+      padding: 10%;
+      margin-top: 20% !important;
+}
