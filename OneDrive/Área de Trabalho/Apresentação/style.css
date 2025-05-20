@@ -1,1 +1,8 @@
-
+h1{text-align: center;
+padding-top: 10%;}
+h3{text-align: center;
+padding-top: 10%;
+}
+a{text-decoration: none !important;
+      color: black !important;
+}
