@@ -1,17 +1,27 @@
-h1{text-align: center;
-padding-top: 10%;}
+h2{text-align: center;
+padding-top: 10%;
+ font-weight: bolder !important;
+font-family: Arial, Helvetica, sans-serif !important;}
 h3{text-align: center;
 padding-top: 10%;
+font-family: Arial, Helvetica, sans-serif !important;
 }
 a{text-decoration: none !important;
       color: black !important;
-      font-weight: bolder !important;
 }
 .icon-redessociais{ width: 20% !important;
 }
 
-body{background-color: rgb(183, 255, 255) !important;
+body{background-color: rgb(161, 112, 186) !important;
 }
 p{
       font-family: Arial, Helvetica, sans-serif !important;
+}
+.card{
+      background-color: rgb(239, 173, 255) !important;
+}
+.img-thumbnail{
+      width: 300px !important;
+      border-radius: 100rem !important;
+      background-color: black !important;
 }
